@@ -1,7 +1,10 @@
 import Header from "@/Component/Header/Header";
+import { Montserrat_Alternates } from "next/font/google";
+
 import "./globals.css";
 import Footer from "@/Component/Footer/Footer";
 import Up from "@/Component/Up/Up";
+const inter = Montserrat_Alternates({ subsets: ["latin"],weight:["400","700"] });
 
 export const metadata = {
   title: "Ahmed EL Rooby",
@@ -11,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className={`${inter.className} `}>
         
         <Header />
         <Up />

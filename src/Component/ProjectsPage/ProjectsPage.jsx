@@ -57,7 +57,7 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
                   <h1 className="font-bold text-[25px] capitalize">
                     Vitruvius
                   </h1>
@@ -103,8 +103,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">Movies</h1>
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">Movies</h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
                     This project is your go-to destination for a diverse
                     collection of movies. This Movie Hub is created to enhance
@@ -148,8 +148,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     furniture website
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -191,8 +191,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     AddStore{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -235,8 +235,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     Bondi theme{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -277,8 +277,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     Nouvil clone{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -319,8 +319,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     coffee project{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -364,8 +364,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     Exclusive E-Commerce{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -410,8 +410,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     leon company{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -452,8 +452,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     commerce project{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -493,8 +493,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                     about my self{" "}
                   </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
@@ -537,8 +537,8 @@ const ProjectsPage = () => {
                 }}
                 className="relative border border-[--main-color] p-3 cursor-pointer w-[350px]  group rounded-md h-[400px]"
               >
-                <div className="absolute rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
-                  <h1 className="font-bold text-[25px] capitalize">
+                <div className="absolute my-2 rounded-md bottom-0 left-0 gap-[30px] transition-all pl-[10px] group-hover:scale-[0.9] scale-0 flex flex-col items-center justify-start text-white bg-[#3264afd6] w-full h-full overflow-hidden">
+                <h1 className="font-bold text-[25px] capitalize">
                   HEXASHOPE                 </h1>
                   <p className="leading-[2] capitalize text-center text-sm px-2">
            
@@ -567,7 +567,7 @@ HEXASHOPE is a modern e-commerce platform built with Next.js and Tailwind CSS. I
             </SwiperSlide>
           </Swiper>
 <div className="w-[95%] m-auto">
-<h1 className="md:text-[24px] text-[20px] md:border-2 md:border-[--main-color] p-3 rounded-full mt-[50px] flex-wrap flex gap-3 items-center text-[--main-color] justify-center font-bold capitalize  ">I have more projects available. If you're interested, click here to view them <Link className="transition-all hover:scale-[1.3]" href="https://github.com/ahmed-elrooby"><FaGitAlt size={60} className="text-[--main-color]"/></Link> </h1>
+<h1 className="md:text-[24px] text-[20px] lg:border-2 lg:border-[--main-color] p-3 rounded-full mt-[50px] flex-wrap flex gap-3 items-center text-[--main-color] justify-center font-bold capitalize  ">I have more projects available. If you're interested, click here to view them <Link className="transition-all hover:scale-[1.3]" href="https://github.com/ahmed-elrooby"><FaGitAlt size={60} className="text-[--main-color]"/></Link> </h1>
 
 </div>
         </div>
