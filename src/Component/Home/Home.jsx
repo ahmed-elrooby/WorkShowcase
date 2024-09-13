@@ -1,7 +1,7 @@
-"use client"
+"use client";
 import { Typewriter } from "react-simple-typewriter";
 import Lottie from "lottie-react";
-import LabtopAnimation from "../../Images/home";
+import LabtopAnimation from "../../Images/home.json"; // تأكد من أن المسار صحيح وأن الامتداد JSON
 import welcome from "../../Images/welcom.json";
 import ParticlesBackground from '../ParticlesBackground/ParticlesBackground';
 import Introduce from '../Introduce/Introduce';
@@ -12,19 +12,18 @@ const Home = () => {
   return (
     <>
       <div className="relative z-10 m-auto w-[90%] pt-[100px] mt-[50px]">
-
         <motion.div
-                initial={{ scale: 0.5 }}
-                transition={{
-                    duration: 0.7,
-                    type: "tween",
-                }}
-                whileInView={{
-                    scale: 1,
-                }}
-
-        className="grid items-center justify-between grid-cols-1 gap-2 text-center lg:grid-cols-2">
-          <div className="relative after:content-[''] after:animate-pulse transition-all after:absolute after:w-[400px] after:h-[400px] after:rounded-full after:top-[-13px] after:left-[-301px] after:bg-[#5dbcfc5f] flex items-start flex-col ">
+          initial={{ scale: 0.5 }}
+          transition={{
+            duration: 0.7,
+            type: "tween",
+          }}
+          whileInView={{
+            scale: 1,
+          }}
+          className="grid items-center justify-between grid-cols-1 gap-2 text-center lg:grid-cols-2"
+        >
+          <div className="relative after:content-[''] after:animate-pulse transition-all after:absolute after:w-[400px] after:h-[400px] after:rounded-full after:top-[-13px] after:left-[-301px] after:bg-[#5dbcfc5f] flex items-start flex-col">
             <h1 className="mb-4 text-[30px] md:text-[50px] flex gap-1 items-center font-extrabold capitalize text-[#5dbcfc]">
               Hi everyone! 
               <Lottie
@@ -38,10 +37,10 @@ const Home = () => {
               <h1 className="mt-[30px] text-[30px] md:text-[45px] text-[#5dbcfc] font-bold">
                 <Typewriter
                   words={[
-                    " Front-End Developer",
-                    " UI/UX Developer",
-                    " React.js Developer",
-                    " Next.js Developer",
+                    "Front-End Developer",
+                    "UI/UX Developer",
+                    "React.js Developer",
+                    "Next.js Developer",
                   ]}
                   loop={5}
                   cursor
@@ -63,9 +62,8 @@ const Home = () => {
         </motion.div>
         <Introduce />
         <Cv />
-        
       </div>
-      <ParticlesBackground/>
+      <ParticlesBackground />
     </>
   );
 };
