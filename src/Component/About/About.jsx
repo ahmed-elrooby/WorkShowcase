@@ -3,7 +3,7 @@ import React from "react";
 import StarParticle from "../StarParticle/StarParticle";
 import Lottie from "lottie-react";
 import aboutLottie from "../../Images/aboutLottie.json";
-import about from "../../Images/about.json"; // تأكد من امتداد الملف
+import about from "../../Images/about.json"; 
 import ProfisSkills from "../ProfisSkills/ProfisSkills";
 import Services from "../Services/Services";
 import { motion } from "framer-motion";
