@@ -1,7 +1,7 @@
 "use client";
 import { Typewriter } from "react-simple-typewriter";
 import Lottie from "lottie-react";
-import LabtopAnimation from "../../Images/home.json"; // تأكد من أن المسار صحيح وأن الامتداد JSON
+import LabtopAnimation from "../../Images/home.json"; 
 import welcome from "../../Images/welcom.json";
 import ParticlesBackground from '../ParticlesBackground/ParticlesBackground';
 import Introduce from '../Introduce/Introduce';
